@@ -1,2 +1,2 @@
 Creating Merge conflict and try to resolve it
-Automation tool: Playwrite
+Automation tool: Selenium
