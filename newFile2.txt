@@ -1,1 +1,1 @@
-Now am modifying the content to create merge conflict
+Creating Merge conflict and try to resolve it
